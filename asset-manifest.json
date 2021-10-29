@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-onlineshop-front/static/css/main.70a3d71c.chunk.css",
+    "main.js": "/react-onlineshop-front/static/js/main.13948e03.chunk.js",
+    "main.js.map": "/react-onlineshop-front/static/js/main.13948e03.chunk.js.map",
+    "runtime-main.js": "/react-onlineshop-front/static/js/runtime-main.441c8d4c.js",
+    "runtime-main.js.map": "/react-onlineshop-front/static/js/runtime-main.441c8d4c.js.map",
+    "static/js/2.bc87a531.chunk.js": "/react-onlineshop-front/static/js/2.bc87a531.chunk.js",
+    "static/js/2.bc87a531.chunk.js.map": "/react-onlineshop-front/static/js/2.bc87a531.chunk.js.map",
+    "static/js/3.a555857c.chunk.js": "/react-onlineshop-front/static/js/3.a555857c.chunk.js",
+    "static/js/3.a555857c.chunk.js.map": "/react-onlineshop-front/static/js/3.a555857c.chunk.js.map",
+    "index.html": "/react-onlineshop-front/index.html",
+    "static/css/main.70a3d71c.chunk.css.map": "/react-onlineshop-front/static/css/main.70a3d71c.chunk.css.map",
+    "static/js/2.bc87a531.chunk.js.LICENSE.txt": "/react-onlineshop-front/static/js/2.bc87a531.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.441c8d4c.js",
+    "static/js/2.bc87a531.chunk.js",
+    "static/css/main.70a3d71c.chunk.css",
+    "static/js/main.13948e03.chunk.js"
+  ]
+}
