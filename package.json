@@ -11,7 +11,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "data:import": "node backend/seederScript.js",
     "predeploy": "npm run dev",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dev"
   },
   "keywords": [],
   "author": "",
